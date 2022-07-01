@@ -1,4 +1,4 @@
-package ru.maxdexter.mynotecompose.data.local.model
+package ru.maxdexter.mynotecompose.domain.model
 
 
 import androidx.compose.ui.graphics.Color
